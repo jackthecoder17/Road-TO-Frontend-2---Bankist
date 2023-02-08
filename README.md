@@ -1,6 +1,10 @@
 # Road-TO-Frontend-2---Bankist
-i've decided to put my journey to becoming A front end developer on Github . I will be pushing all of my Projects
+This is a simple banking web-application. You can send and receive money and also ask for laon
 
 Username : js
 Password: 1111
+
+Username : jd
+Password: 2222
+
 
